@@ -1,2 +1,4 @@
 language: node_js
-before_script: cd fontend
+before_script: 
+  - cd fontend
+  - npm install

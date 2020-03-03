@@ -3,18 +3,3 @@
       before_script:
         - cd backend
         
-        
-    - language: java
-      before_script:
-        - cd backend/Ticketing
-        
-
-    - language: android
-      dist: trusty
-      android:
-        components:
-          - tools
-          - android-25
-          - build-tools-26.0.2
-      before_script:
-        - cd Android App

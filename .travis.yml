@@ -5,4 +5,4 @@ android:
       - tools
       - android-25
       - build-tools-26.0.2
-before_script: cd Android App
+before_script: cd Android\ App

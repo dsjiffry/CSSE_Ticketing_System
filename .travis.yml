@@ -1,6 +1,2 @@
-language: java
-jdk: oraclejdk9
-before_script: 
-        - cd backend/Ticketing
-        - mvn clean
-        - chmod +x mvnw
+language: node_js
+before_script: cd backend

@@ -1,2 +1,2 @@
 language: java
-before_script: cd backend/Ticketing
+before_install: cd backend/Ticketing

@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import { BrowserRouter as Router} from "react-router-dom";
 
-import CreditCardDetails from "./components/CreditCardDetails";
+import CreditCardDetails from "./components/creditCardDetails";
 import BlueGradientbar from "./components/BlueGradientBar";
 import Navbar from "./components/NavBar";
 import AddCard from "./AddCard";

@@ -30,7 +30,3 @@ jobs:
       working-directory: ./fontend/
       env:
         CI: false
-    - run: npm test --passWithNoTests
-      working-directory: ./fontend/
-      env:
-        CI: false

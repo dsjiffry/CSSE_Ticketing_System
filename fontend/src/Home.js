@@ -3,7 +3,7 @@ import { BrowserRouter as Router} from "react-router-dom";
 import Cookies from 'universal-cookie';
 
 import Sidebar from "./components/sidebar";
-import CreditCardDetails from "./components/CreditCardDetails";
+import CreditCardDetails from "./components/creditCardDetails";
 import OtherOperations from "./components/OtherOperations";
 import BlueGradientbar from "./components/BlueGradientBar";
 import Navbar from "./components/NavBar";

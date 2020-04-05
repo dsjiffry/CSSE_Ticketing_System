@@ -1,3 +1,7 @@
+[![Android CI](https://github.com/dsjiffry/CSSE_Ticketing_System/workflows/Android%20CI/badge.svg?branch=master)](https://github.com/dsjiffry/CSSE_Ticketing_System/actions?query=workflow%3A%22Android+CI%22)
+[![Java CI with Maven](https://github.com/dsjiffry/CSSE_Ticketing_System/workflows/Java%20CI%20with%20Maven/badge.svg?branch=master)](https://github.com/dsjiffry/CSSE_Ticketing_System/actions?query=workflow%3A%22Java+CI+with+Maven%22)
+[![Node.js CI](https://github.com/dsjiffry/CSSE_Ticketing_System/workflows/Node.js%20CI/badge.svg)](https://github.com/dsjiffry/CSSE_Ticketing_System/actions?query=workflow%3A%22Node.js+CI%22)
+
 # CSSE Ticketing System (Y03)
 
 ## Developed a Bus Ticketing system based on a design document which was provided.

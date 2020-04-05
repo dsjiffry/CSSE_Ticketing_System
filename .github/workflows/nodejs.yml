@@ -29,8 +29,8 @@ jobs:
     - run: npm run build --if-present
       working-directory: ./fontend/
       env:
-        CI: ""
+        CI: false
     - run: npm test
       working-directory: ./fontend/
       env:
-        CI: ""
+        CI: false
